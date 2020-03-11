@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/csant510/test-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/csant510/test-app/static/js/main.77d16c6e.chunk.js",
+    "main.js.map": "/csant510/test-app/static/js/main.77d16c6e.chunk.js.map",
+    "runtime-main.js": "/csant510/test-app/static/js/runtime-main.9cbcbe3c.js",
+    "runtime-main.js.map": "/csant510/test-app/static/js/runtime-main.9cbcbe3c.js.map",
+    "static/js/2.f8969ca5.chunk.js": "/csant510/test-app/static/js/2.f8969ca5.chunk.js",
+    "static/js/2.f8969ca5.chunk.js.map": "/csant510/test-app/static/js/2.f8969ca5.chunk.js.map",
+    "index.html": "/csant510/test-app/index.html",
+    "precache-manifest.015563d31bad13f83fddd7199ae5935d.js": "/csant510/test-app/precache-manifest.015563d31bad13f83fddd7199ae5935d.js",
+    "service-worker.js": "/csant510/test-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/csant510/test-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f8969ca5.chunk.js.LICENSE.txt": "/csant510/test-app/static/js/2.f8969ca5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/csant510/test-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cbcbe3c.js",
+    "static/js/2.f8969ca5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.77d16c6e.chunk.js"
+  ]
+}
